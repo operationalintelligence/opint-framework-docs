@@ -1,0 +1,17 @@
+site_name: S2I MkDocs Example
+site_description: S2I MkDocs Example
+site_author: CERN Authoring
+site_url: https://s2i-mkdocs-example.docs.cern.ch/
+
+repo_name: GitLab
+repo_url: https://gitlab.cern.ch/authoring/documentation/s2i-mkdocs-example
+edit_uri: 'blob/master/docs'
+
+theme:
+    name: material
+
+nav:
+    - Introduction: index.md
+    - 'Chapter 1': chapter_1.md
+    - 'Chapter 2': chapter_2/index.md
+    - 'MkDocs official documentation': https://www.mkdocs.org/
