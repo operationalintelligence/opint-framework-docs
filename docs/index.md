@@ -1,10 +1,10 @@
 # S2I MkDocs Example
 
-More information on how this page was created is available at [S2I MkDocs Container GitLab repository](https://gitlab.cern.ch/authoring/documentation/s2i-mkdocs-container).
+The source code of the documentation can be found at [OpInt FW Docs](https://github.com/operationalintelligence/opint-framework-docs).
 
-## Source files
+## Source code
 
-The source files for this example can be found in the [MkDocs Example GitLab repository](https://gitlab.cern.ch/authoring/documentation/s2i-mkdocs-example).
+The source code of the framework can be found at [OpInt FW](https://github.com/operationalintelligence/opint-framework).
 
 ## Theme
 

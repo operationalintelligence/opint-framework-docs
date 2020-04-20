@@ -1,10 +1,10 @@
-site_name: S2I MkDocs Example
-site_description: S2I MkDocs Example
-site_author: CERN Authoring
-site_url: https://s2i-mkdocs-example.docs.cern.ch/
+site_name: OpInt FW Docs
+site_description: Documentation of the Operational Intelligence Framework.
+site_author: OpInt FW Developers
+site_url: https://opint-fw-docs.web.cern.ch/
 
-repo_name: GitLab
-repo_url: https://gitlab.cern.ch/authoring/documentation/s2i-mkdocs-example
+repo_name: GitHub
+repo_url: https://github.com/operationalintelligence/opint-framework-docs
 edit_uri: 'blob/master/docs'
 
 theme:
@@ -15,3 +15,4 @@ nav:
     - 'Chapter 1': chapter_1.md
     - 'Chapter 2': chapter_2/index.md
     - 'MkDocs official documentation': https://www.mkdocs.org/
+    - 'GitHub Repo': https://github.com/operationalintelligence/opint-framework
