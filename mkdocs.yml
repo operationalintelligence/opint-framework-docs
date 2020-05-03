@@ -14,11 +14,12 @@ nav:
     - Introduction: index.md
     - Installation: install.md
     - 'Core Components':
-        - 'Scheduler': chapter_1.md
+        - 'Scheduler': core_components/scehduler.md
         - 'DataLoaders':
-            - 'HDFSLoader': chapter_2/index.md
-        - 'API': chapter_2/index.md
+            - 'BaseLoader': core_components/data_loader.md
+            - 'HDFSLoader': core_components/data_loader_hdfs.md
+        - 'API': core_components/index.md
     - 'Example app':
-          - 'App structure': chapter_2/index.md
+          - 'App structure': core_components/index.md
     - 'MkDocs official documentation': https://www.mkdocs.org/
     - 'GitHub Repo': https://github.com/operationalintelligence/opint-framework
