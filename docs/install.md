@@ -1,9 +1,9 @@
 # Installation instuctions
 
-There are 3 options for the Framework installation:
-1. Minimal, required only for running Jupyter notebooks supplied with example applications.
-2. Backend service intended for running agents. 
-3. REST service for Web deployment
+There are 3 options for the Framework installation:\
+1. Minimal, required only for running Jupyter notebooks supplied with example applications.\
+2. Backend service intended for running agents.\
+3. REST service for Web deployment\
 
 Any installation scenario starts from getting the source code:
 ```commandline
