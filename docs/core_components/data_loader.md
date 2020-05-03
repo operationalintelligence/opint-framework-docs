@@ -40,3 +40,7 @@ load_data(cls, **kwargs)
 
 optional 'parameter' `cache`: file path to cache return of loader\
 :return: (data loaded from url, etag)
+
+## Links
+
+You can find the whole implementation [here](https://github.com/operationalintelligence/opint-framework/blob/master/opint_framework/core/dataproviders/base.py)
