@@ -12,6 +12,7 @@ theme:
 
 nav:
     - Introduction: index.md
+    - Installation: install.md
     - 'Core Components':
         - 'Scheduler': chapter_1.md
         - 'DataLoaders':
