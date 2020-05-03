@@ -4,7 +4,7 @@ The BaseLoader is the base skeleton implementation of the frameworks data loader
 
 It provides basic caching and abstract classes for other loaders to inherit and use.
 
-Example of usage can be found at the [HDFSLoader](core_components/data_loader_hdfs.md)
+Example of usage can be found at the [HDFSLoader](data_loader_hdfs.md)
 
 ## Methods
 
