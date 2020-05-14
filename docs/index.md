@@ -1,4 +1,4 @@
-# S2I MkDocs Example
+# Operational Intelligence Framework
 
 The source code of the documentation can be found at [OpInt FW Docs](https://github.com/operationalintelligence/opint-framework-docs).
 
