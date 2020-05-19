@@ -14,6 +14,7 @@ nav:
     - Introduction: index.md
     - Installation: install.md
     - 'Core Components':
+        - 'Feedback mechanism': core_components/feedback.md
         - 'Scheduler': core_components/scehduler.md
         - 'DataLoaders':
             - 'BaseLoader': core_components/data_loader.md
