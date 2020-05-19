@@ -1,8 +1,8 @@
 # Feedback Mechanism
 
-A basic feedback mechanism has been implemented to give the app developers the posibility to record feedback.
+A basic feedback mechanism has been implemented to give the app developers the posibility to record feedback for entities in the fw.
 
-This feature requires a database to be configured in the freamework to be used.
+This feature requires a database to be configured in the framework.
 
 
 ## Schema
